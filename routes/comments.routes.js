@@ -12,3 +12,5 @@ router.put('/posts',authMiddleware,commentsController.updateComment);
 router.delete('/comments/:commnetsId',authMiddleware,commentsController.deleteComment);
 
 module.exports = router;
+
+//깃확인

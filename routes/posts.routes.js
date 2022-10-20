@@ -15,4 +15,4 @@ router.delete('/:postId',authMiddleware,postsController.deletePost);
 module.exports=router
 
 
-
+//깃확인
