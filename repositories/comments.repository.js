@@ -8,7 +8,6 @@ class CommentRepository {
 
     findCommentById = async(commentId)=>{
         const comment = await Comments.findByPk(commentId)
-
         return comment
     }
 
