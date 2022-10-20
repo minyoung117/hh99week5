@@ -28,3 +28,5 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Comments;
 };
+
+//깃확인

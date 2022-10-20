@@ -28,3 +28,5 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Users;
 };
+
+//깃확인

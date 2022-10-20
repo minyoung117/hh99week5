@@ -15,3 +15,6 @@ app.use("/",[signupRouter,postsRouter,commentsRouter]);
 app.listen(PORT, () => {
     console.log(`${PORT} 에 연결되었습니다.`)
 })
+
+
+//깃확인
